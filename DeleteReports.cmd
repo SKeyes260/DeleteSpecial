@@ -1,0 +1,1 @@
+powershell -command "& 'E:\ScheduledTaskScripts\DeleteSpecial-SCCM2012-Prod\DeleteReportsOlderThan30Days.PS1'"
